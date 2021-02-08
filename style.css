@@ -1,10 +1,22 @@
-#food{
+ /* #food{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-gap:10px;
 
-}
-#food img{
-    width: 400px;
+} */
 
+#food img{
+    width: 300px;
+
+} 
+#foodDetail img{
+    margin-top: 30px;
+    width: 300px;
+}
+#foodDetail {
+    width: 300px;
+}
+.list{
+    list-style: none;
+    font-weight: bold;
 }
