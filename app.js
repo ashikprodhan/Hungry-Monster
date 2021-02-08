@@ -14,7 +14,7 @@ const foodsName = input => {
 
         /* code for error handling */
         .catch(err => {
-            alert('write correct food');
+            alert('Please write valid food');
         })
 
 }

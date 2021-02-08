@@ -1,9 +1,4 @@
- /* #food{
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-gap:10px;
 
-} */
 
 #food img{
     width: 300px;
